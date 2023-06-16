@@ -1,0 +1,157 @@
+img {
+  position: absolute;
+  left: 15%;
+  top: -18%;
+}
+
+.element {
+  border-radius: 50%;
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  left: 37%;
+  top: 27%;
+}
+.resultado {
+  background-color: white;
+  width: 30px;
+  height: 7%;
+  border-radius: 50%;
+  position: absolute;
+  left: 29%;
+  top: 29%;
+  text-align: center;
+  font-size: 150%;
+  padding: 17%;
+}
+#cero,
+#uno,
+#dos,
+#tres,
+#cuatro,
+#cinco,
+#seis,
+#siete,
+#ocho,
+#nueve {
+  color: rgb(0, 0, 0);
+  background-color: white;
+  font-size: 19px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+#cero {
+  position: absolute;
+  left: 150px;
+  top: 8px;
+}
+#uno {
+  position: absolute;
+  left: 65%;
+  top: 9%;
+}
+#dos {
+  position: absolute;
+  left: 82%;
+  top: 30%;
+}
+#cinco {
+  position: absolute;
+  left: 150px;
+  top: 84%;
+}
+#cuatro {
+  position: absolute;
+  left: 65%;
+  top: 77%;
+}
+#tres {
+  position: absolute;
+  left: 80%;
+  top: 58%;
+}
+#seis {
+  position: absolute;
+  left: 20%;
+  top: 77%;
+}
+#siete {
+  position: absolute;
+  left: 5%;
+  top: 58%;
+}
+#ocho {
+  position: absolute;
+  left: 4%;
+  top: 30%;
+}
+#nueve {
+  position: absolute;
+  left: 20%;
+  top: 9%;
+}
+
+#elim,
+#punto,
+#aste,
+#igual {
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  font-size: 19px;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+#punto {
+  position: absolute;
+  left: 67%;
+  top: 61%;
+}
+#elim {
+  position: absolute;
+  left: 22%;
+  top: 26%;
+}
+#igual {
+  position: absolute;
+  left: 22%;
+  top: 61%;
+}
+#aste {
+  position: absolute;
+  left: 67%;
+  top: 26%;
+}
+
+#mas,
+#menos,
+#por,
+#divi {
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 0, 0);
+  font-size: 19px;
+  height: 35px;
+  width: 35px;
+}
+#mas {
+  position: absolute;
+  left: 45%;
+  top: 18%;
+}
+#menos {
+  position: absolute;
+  left: 45%;
+  top: 72%;
+}
+#por {
+  position: absolute;
+  left: 16%;
+  top: 45%;
+}
+#divi {
+  position: absolute;
+  left: 74%;
+  top: 45%;
+}
