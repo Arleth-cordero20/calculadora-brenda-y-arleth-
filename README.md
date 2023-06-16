@@ -1,2 +1,2 @@
-# calculadora.0
+# calculadora.0 (brenda y arleth)
 Created with CodeSandbox
